@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<controldata>
+  <includes>
+    <!--Easiest to check if kept in same alpha-sort as Solution Explorer -->
+    <include path="./Controls/TinderPage.xml" />
+  </includes>
+</controldata>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+  <add key="targetUrl" value="https://tinder.com/" />
+
+
+  <!-- choices are: sauceLabs, oshyn -->
+  <add key="remoteDriver" value="" />
+
+  <add key="screenshotsFolder" value="screenshots" />
+
+  <!-- the default timeout for all web page interactions -->
+  <add key="defaultTimeoutSeconds" value="10" />
+
+  <!-- the number of milliseconds to pause after every action performed on the web page -->
+  <add key="browsingDelayMilliseconds" value="50" />
+
+  <!-- most-sensitive, to least-sensitive, possible values: All, Debug, Info, Warning, Severe, Off -->
+  <add key="throwOnLogEntryLevel" value="Off" />
+
+  <!-- possible values are: chrome, firefox, ie, safari -->
+  <add key="currentBrowser" value="chrome" />
+
+  <add key="localChromeDriverLocation" value="." />
+  <add key="localEdgeDriverLocation" value="." />
+  <add key="localIEDriverLocation" value="." />
+  <add key="localFirefoxDriverLocation" value="." />
+  <add key="localSafariDriverLocation" value="." />
+  <add key="localOperaDriverLocation" value="." />
+
+  <add key="oshynUrl" value="http://192.168.2.17:4444/wd/hub" />
+  <!-- choices are: WINDOWS, WIN10, VISTA, MAC -->
+  <add key="oshynPlatform" value="WINDOWS" />
+
+</settings>

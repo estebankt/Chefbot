@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controldata>
+  <page name="TinderPage" urlpage="/">
+    <sections>
+      <section name="LoginFacebook">
+        <controls>
+          <control key="login_button" xpath="//*[@id='content']/div/div[1]/div/main/div[1]/div/div/header/div[1]/div[2]/div/button" />
+          <control key="login_close_button" xpath="//*[@id='modal-manager']/div/div/button" />
+          <control key="login_email" id="email" />
+          <control key="login_password" id="pass" />
+          <control key="submit_facebook_button" id="loginbutton" />
+          <control key="login_facebook_button" xpath="//button[@type = 'button' and @aria-label = 'Log in with Facebook']//span" />
+          <control key="allow_location_button" xpath="//button[@type = 'button' and @aria-label = 'Allow']//span" />
+          <control key="disable_notifications_button" xpath="//button[@type = 'button' and @aria-label = 'Not interested']//span" />
+          <control key="disable_notifications_button2" xpath="//*[@id='modal-manager']/div/div/div[2]/button[2]" />
+          <control key="disable_notifications_span" xpath="//*[contains(text(), 'Add Course')]" />
+          <control key="disable_notifications_span2" xpath="//*[contains(text(), 'Not interested')]" />
+          <control key="like_button" xpath="//button[@type = 'button' and @aria-label = 'Like']//span" />
+          <control key="body" xpath="//body" />
+        </controls>
+      </section>
+    </sections>
+  </page>
+</controldata>

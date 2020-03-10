@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<BrandmanUser xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ZipCode>92618</ZipCode>
+  <DegreeType>Credentials &amp; Authorizations</DegreeType>
+  <AreaOfInterest>Psychology &amp; Counseling</AreaOfInterest>
+  <Program>Pupil Personnel Services Credential in School Counseling</Program>
+  <Session>Fall I (Sep 03, 2019)</Session>
+  <FirstName>bu_test</FirstName>
+  <LastName>Padilla</LastName>
+  <Email>bpadilla@oshyn.com</Email>
+  <Phone>9880000000</Phone>
+</BrandmanUser>

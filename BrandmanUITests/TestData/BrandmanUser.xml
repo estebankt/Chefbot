@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<BrandmanUser xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GeneralZipCode>92618</GeneralZipCode>
+  <LemooreZipCode>93202</LemooreZipCode>
+  <TravisZipCode>94501</TravisZipCode>
+  <DegreeType>Credentials &amp; Authorizations</DegreeType>
+  <NursingDegreeType>Bachelor's</NursingDegreeType>
+  <AreaOfInterest>Psychology &amp; Counseling</AreaOfInterest>
+  <NursingAreaOfInterest>Nursing</NursingAreaOfInterest>
+  <!--<Program>Pupil Personnel Services Credential in School Counseling</Program>
+  --><!--<Session>Fall I (Sep 03, 2019)</Session>--><!--
+<Session>Spring I (Jan 13, 2020)</Session>-->
+  <Program>CRED.XPSC</Program>
+  <NursingProgram>BS.NURS</NursingProgram>
+  <!--<Session>Fall I (Sep 03, 2019)</Session>-->
+  <Session>202031</Session>
+  <NursingSession>202031</NursingSession>
+  <FirstName>bu_test</FirstName>
+  <LastName>Padilla</LastName>
+  <Email>bpadilla@oshyn.com</Email>
+  <Phone>8908809808</Phone>
+</BrandmanUser>
